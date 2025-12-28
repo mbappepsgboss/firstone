@@ -2,3 +2,5 @@ simple file
 hello
 again aedited
 hello
+
+ler-3 checking
