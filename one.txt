@@ -3,4 +3,7 @@ hello
 again aedited
 hello
 
+edited from git
+
+edited from local
 ler-3 checking
